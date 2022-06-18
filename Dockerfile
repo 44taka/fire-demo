@@ -15,4 +15,4 @@ RUN pip install -r /app/requirements.txt
 
 WORKDIR /app
 
-ENTRYPOINT ["python", "main.py"]
+# ENTRYPOINT ["python", "main.py"]
